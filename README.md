@@ -2,5 +2,5 @@
 
 Personal Portfolio Website
 
-Soon to be hosted on github pages
+Soon to be hosted through vercel.
 
