@@ -18,7 +18,7 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Travel Advisor App (WIP)',
+    title: 'Travel Advisor (WIP)',
     description: "Application that allow users to see restraunts, hotels, and attractions near the current location on google maps and detailed info about them.",
       image: '/images/3.png',
       tags: ['React',  'Material UI', 'Travel Advisor API'],
