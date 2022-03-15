@@ -19,10 +19,6 @@ const Footer = () => {
     <FooterWrapper>
       <LinkList>
         <LinkColumn>
-          <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:606-594-1146">606-594-1146</LinkItem>
-        </LinkColumn>
-        <LinkColumn>
           <LinkTitle>email</LinkTitle>
           <LinkItem href="mailto:coryroberts5699@gmail.com">coryroberts5699@gmail.com</LinkItem>
         </LinkColumn>
