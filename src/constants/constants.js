@@ -18,12 +18,12 @@ export const projects = [
     id: 1,
   },
   {
-    title: 'Travel Advisor (WIP)',
-    description: "Application that allow users to see restraunts, hotels, and attractions near the current location on google maps and detailed info about them.",
+    title: 'Disaster Tracker',
+    description: "Application that allow users to see current disasters pulled from NASA's disaster API and displays them within google maps.",
       image: '/images/3.png',
-      tags: ['React',  'Material UI', 'Travel Advisor API'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+      tags: ['React',  'NASA API'],
+    source: 'https://github.com/AllenRoberts/Disaster-Tracker',
+    visit: 'https://disaster-tracker-nine.vercel.app/',
     id: 2,
   },
   {
