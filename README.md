@@ -2,5 +2,5 @@
 
 Personal Portfolio Website
 
-Soon to be hosted through vercel.
+Hosted here: https://www.allenroberts.dev/
 
