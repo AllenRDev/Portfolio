@@ -9,12 +9,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Email System (Private)',
-    description:"Simple full stack application system where a user can input a list of emails with a subject and a body, then sends a request to the express server to iteratively send emails to each listed email address.",
-    image: '/images/2.png',
-    tags: ['React', 'Express'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    title: 'Taste Raters',
+    description:"A Site using Laravel and React that allows users to submit recipes for other users review and try.",
+    image: '/images/tasteraters.png',
+    tags: ['React', 'Laravel'],
+    source: 'https://github.com/AllenRDev/taste-raters',
+    visit: 'http://tasteraters.com',
     id: 1,
   },
   {
@@ -41,5 +41,5 @@ export const TimeLineData = [
   { year: 2017, text: 'Began my journey into the world of development', },
   { year: 2020, text: 'Found my passion for front-end development', },
   { year: 2021, text: 'Graduated with B.S in computer science', },
-  { year: 2022, text: 'Expanding my skillset one step at a time', }
+  { year: 2022, text: 'Began work at eLink Design as a Web Developer', }
 ];
